@@ -1,0 +1,11 @@
+C:\Users\Batuhan\Desktop\Yazılım Ders\Dosyalar\Ödevler\CLKahveSipariş\CLKahveSipariş\bin\Debug\net7.0\CLKahveSipariş.deps.json
+C:\Users\Batuhan\Desktop\Yazılım Ders\Dosyalar\Ödevler\CLKahveSipariş\CLKahveSipariş\bin\Debug\net7.0\CLKahveSipariş.dll
+C:\Users\Batuhan\Desktop\Yazılım Ders\Dosyalar\Ödevler\CLKahveSipariş\CLKahveSipariş\bin\Debug\net7.0\CLKahveSipariş.pdb
+C:\Users\Batuhan\Desktop\Yazılım Ders\Dosyalar\Ödevler\CLKahveSipariş\CLKahveSipariş\obj\Debug\net7.0\CLKahveSipariş.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batuhan\Desktop\Yazılım Ders\Dosyalar\Ödevler\CLKahveSipariş\CLKahveSipariş\obj\Debug\net7.0\CLKahveSipariş.AssemblyInfoInputs.cache
+C:\Users\Batuhan\Desktop\Yazılım Ders\Dosyalar\Ödevler\CLKahveSipariş\CLKahveSipariş\obj\Debug\net7.0\CLKahveSipariş.AssemblyInfo.cs
+C:\Users\Batuhan\Desktop\Yazılım Ders\Dosyalar\Ödevler\CLKahveSipariş\CLKahveSipariş\obj\Debug\net7.0\CLKahveSipariş.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\Yazılım Ders\Dosyalar\Ödevler\CLKahveSipariş\CLKahveSipariş\obj\Debug\net7.0\CLKahveSipariş.dll
+C:\Users\Batuhan\Desktop\Yazılım Ders\Dosyalar\Ödevler\CLKahveSipariş\CLKahveSipariş\obj\Debug\net7.0\refint\CLKahveSipariş.dll
+C:\Users\Batuhan\Desktop\Yazılım Ders\Dosyalar\Ödevler\CLKahveSipariş\CLKahveSipariş\obj\Debug\net7.0\CLKahveSipariş.pdb
+C:\Users\Batuhan\Desktop\Yazılım Ders\Dosyalar\Ödevler\CLKahveSipariş\CLKahveSipariş\obj\Debug\net7.0\ref\CLKahveSipariş.dll
